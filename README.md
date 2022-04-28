@@ -10,6 +10,7 @@ git add
 git commit
 git push 
 git pull.
+``
 
 Por fim, introduziu-se um pouco de sintaxe básica de escrita e formação dos códigos no Git Hub através da leitura da página na web [Github Basic writing and formatting syntax] (https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 ![This is an image](https://logosmarcas.net/wp-content/uploads/2020/12/GitHub-Logo.png)
